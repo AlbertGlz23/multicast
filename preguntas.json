@@ -1,0 +1,24 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cual es la capital de Francia?",
+      "opciones": [
+        "Londres",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "indiceRespuestaCorrecta": 2
+    },
+    {
+      "pregunta": "¿Cual es la capital de Alemania?",
+      "opciones": [
+        "Londres",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "indiceRespuestaCorrecta": 1
+    }
+  ]
+}
